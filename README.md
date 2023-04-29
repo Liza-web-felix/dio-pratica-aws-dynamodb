@@ -1,0 +1,1 @@
+# dio-pratica-aws-dynamodb
