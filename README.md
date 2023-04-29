@@ -1,1 +1,1 @@
-# dio-pratica-aws-dynamodb
+# Projeto Boas Práticas com DynamoDB
