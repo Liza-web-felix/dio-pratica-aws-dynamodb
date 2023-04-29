@@ -4,9 +4,9 @@
 
 
 ### Ferramentas utilizadas
-```
+
 <img src="https://www.educative.io/api/page/5089276808134656/image/download/6007742343938048" alt="Amazon DynamoDB" width="50" height="50">
-```
-```
+
+
  <img src="https://th.bing.com/th/id/OIP.5kjrKcjVI35bfepw-j9N5QAAAA?pid=ImgDet&rs=1" alt="Git Bash" width="50" height="50">
-```
+
